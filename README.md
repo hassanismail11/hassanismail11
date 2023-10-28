@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-I am Hassan Ismail, A Software Engineer with a B.E. in Mechatronics Engineering (2020).
+I'm a Software Engineer with a B.E. in Mechatronics Engineering (2020).
 
 [![Linkedin: Hassan Ismail](https://img.shields.io/badge/-Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanismail11/)](https://www.linkedin.com/in/hassanismail11/)
 [![GitHub Hassan Ismail](https://img.shields.io/github/followers/hassanismail11?label=follow&style=social)](https://github.com/hassanismail11)
