@@ -7,7 +7,7 @@
   <img align="left" alt="Flik's Facebook" width="22px" src="https://www.flaticon.com/free-icons/facebook" />
 </a>
 <a href="https://wa.me/201149949175">
-  <img align="left" alt="Flik's Whatsapp" width="22px" src="https://www.flaticon.com/free-icons/whatsapp" />
+  <img align="left" alt="Flik's Whatsapp" width="22px" src="https://icons8.com/icon/16713/whatsapp" />
 </a>
 
 <br/>
@@ -17,7 +17,6 @@ I am Hassan Ismail, A Software Engineer with a B.E. in Mechatronics Engineering 
 
 [![Linkedin: Hassan Ismail](https://img.shields.io/badge/-Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanismail11/)](https://www.linkedin.com/in/hassanismail11/)
 [![GitHub Hassan Ismail](https://img.shields.io/github/followers/hassanismail11?label=follow&style=social)](https://github.com/hassanismail11)
-[![](https://visitcount.itsvg.in/api?id=hassanismail11&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 
 # 💻Tech Stack
