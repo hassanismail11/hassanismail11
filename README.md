@@ -1,5 +1,6 @@
-### [Hi there 👋, I'm Hassan](https://github.com/hassanismail11)!
+<h1 align="center">Hi there 👋, I'm Hassan Ismail</h1>
 
+<div align="center">
 <a href="https://www.linkedin.com/in/hassanismail11/">
   <img width="30" height="30" src="https://img.icons8.com/fluency/48/linkedin.png" alt="Hassan Ismail's LinkedIn"/>
 </a>
@@ -9,7 +10,7 @@
 <a href="https://wa.me/201149949175">
   <img width="30" height="30" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="Hassan Ismail's Whatsapp"/>
 </a>
-
+</div>
 <br/>
 <br/>
 
